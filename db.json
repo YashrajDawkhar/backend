@@ -3,29 +3,72 @@
         "IT": [
             {
                 "title": "Python",
-                "desc": "",
-                "img": "",
-                "id": ""
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
+                "id": "1",
+                "detail": {
+                    "rating": "",
+                    "student_enrol": "",
+                    "problem": "",
+                    "month": "",
+                    "hour": "",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand"
+                    ],
+                    "curriculum":[
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty":[
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
             },
             {
-                "title": "Python",
-                "desc": "",
-                "img": "",
-                "id": ""
+                "title": "Machine Learning",
+                "desc": "ML is a general-purpose functional programming language. It is known for its use of the polymorphic Hindley–Milner type system, which automatically assigns the types of most expressions without requiring",
+                "img": "1yd9_-iaqBJSGeD3sv9ZXzhPkC7T7TzqJ",
+                "id": "2"
+            },
+            {
+                "title": "MERN Stack",
+                "desc": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based.",
+                "img": "1Ks6WMD-MYw1L1RavP2B4TFYyGDpjACQR",
+                "id": "3"
+            },
+            {
+                "title": "MEAN Stack",
+                "desc": "Each letter in the word MEAN has some specific meaning. Here, 'M' stands for MongoDB, 'E' stands for Express, 'A' stands for Angular, and 'N' stands for Node.js. It is one of the most popular stacks used for developing the full stack application. Let's understand the basic idea behind the mean stack.",
+                "img": "1gJFHrGwlF5EkNh9cKsCfM8Z6rYHwBCuG",
+                "id": "4"
+            },
+            {
+                "title": "C++",
+                "desc": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+                "img": "17k9_UzjC0xl7ubqanCkkxSySbmzm2iVJ",
+                "id": "5"
             }
         ],
         "CAD": [
             {
-                "title": "Python",
-                "desc": "",
-                "img": "",
-                "id": ""
+                "title": "MERN Stack",
+                "desc": "MERN stack is a collection of technologies that enables faster application development. It is used by developers worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up the technology stack are all JS-based.",
+                "img": "1Ks6WMD-MYw1L1RavP2B4TFYyGDpjACQR",
+                "id": "3"
             },
             {
-                "title": "Python",
-                "desc": "",
-                "img": "",
-                "id": ""
+                "title": "MEAN Stack",
+                "desc": "Each letter in the word MEAN has some specific meaning. Here, 'M' stands for MongoDB, 'E' stands for Express, 'A' stands for Angular, and 'N' stands for Node.js. It is one of the most popular stacks used for developing the full stack application. Let's understand the basic idea behind the mean stack.",
+                "img": "1gJFHrGwlF5EkNh9cKsCfM8Z6rYHwBCuG",
+                "id": "4"
+            },
+            {
+                "title": "C++",
+                "desc": "C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.",
+                "img": "17k9_UzjC0xl7ubqanCkkxSySbmzm2iVJ",
+                "id": "5"
             }
         ]
     }
