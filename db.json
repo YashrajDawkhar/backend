@@ -16,24 +16,24 @@
                         "Easy To Learn",
                         "High Demand"
                     ],
-                    "curriculum":[
+                    "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
-                    "faculty":[
+                    "faculty": [
                         "Shreeya Patil",
                         "Yashraj"
                     ]
                 }
             },
             {
-                "title": "Java",
+                "title": "Machine Learning",
                 "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
                 "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
-                "id": "2",
+                "id": "1",
                 "detail": {
-                    "rating": "4",
-                    "student_enrol": "2300",
+                    "rating": "",
+                    "student_enrol": "",
                     "problem": "",
                     "month": "",
                     "hour": "",
@@ -41,11 +41,86 @@
                         "Easy To Learn",
                         "High Demand"
                     ],
-                    "curriculum":[
+                    "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
-                    "faculty":[
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Mean Stack",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
+                "id": "1",
+                "detail": {
+                    "rating": "",
+                    "student_enrol": "",
+                    "problem": "",
+                    "month": "",
+                    "hour": "",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand"
+                    ],
+                    "curriculum": [
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Mern Stack",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
+                "id": "1",
+                "detail": {
+                    "rating": "",
+                    "student_enrol": "",
+                    "problem": "",
+                    "month": "",
+                    "hour": "",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand"
+                    ],
+                    "curriculum": [
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "C++",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
+                "id": "1",
+                "detail": {
+                    "rating": "",
+                    "student_enrol": "",
+                    "problem": "",
+                    "month": "",
+                    "hour": "",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand"
+                    ],
+                    "curriculum": [
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty": [
                         "Shreeya Patil",
                         "Yashraj"
                     ]
@@ -68,11 +143,11 @@
                         "Easy To Learn",
                         "High Demand"
                     ],
-                    "curriculum":[
+                    "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
-                    "faculty":[
+                    "faculty": [
                         "Shreeya Patil",
                         "Yashraj"
                     ]
