@@ -22,16 +22,18 @@
                     ],
                     "curriculum": [
                         "Basic of Python",
-                        "Array"
+                        "File handling in Python",
+                        "Python Database connectivity",
+                        "exception handling in python"
                     ],
                     "faculty": [
                         {
                             "name": "Shreeya Patil",
-                            "img": ""
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
                         },
                         {
                             "name": "Yashraj",
-                            "img": ""
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
                         }
                     ]
                 }
@@ -53,11 +55,19 @@
                     ],
                     "curriculum": [
                         "Basic of Python",
-                        "Array"
+                        "File handling in Python",
+                        "Python Database connectivity",
+                        "exception handling in python"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -81,12 +91,20 @@
                         "Extensible And Portable"
                     ],
                     "curriculum": [
-                        "Basic of Python",
-                        "Array"
+                        "Getting started with Basics",
+                        "Introduction to HTML",
+                        "More on HTML",
+                        "Styling with CSS"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -110,8 +128,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -135,8 +159,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -163,8 +193,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             }
@@ -193,8 +229,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -221,8 +263,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             }
@@ -251,8 +299,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -279,8 +333,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             }
@@ -309,8 +369,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -337,8 +403,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             },
@@ -365,8 +437,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": "1ErbFAlnXC0NhQ_eeKpIUpVKx77_Cy3t_"
+                        }
                     ]
                 }
             }
