@@ -132,40 +132,128 @@
             },
             {
                 "title": "Java",
-                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "desc": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
                 "img": "1dmdpa0tUqTRoOO881cpjrB68ELb33tFB",
                 "id": "2",
                 "detail": {
-                    "rating": "4",
+                    "rating": "4.5",
                     "student_enrol": "2300",
-                    "problem": "",
-                    "month": "",
-                    "hour": "",
+                    "problem": "30",
+                    "month": "5 Monts",
+                    "hour": "3 hrs",
                     "learn": [
                         "Easy To Learn",
-                        "High Demand"
+                        "High Demand",
+                        "Platform Independent",
+                        "Multi-Threaded",
+                        "Microbenchmark suite."
                     ],
-                    "curriculum":[
+                    "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
-                    "faculty":[
+                    "faculty": [
                         "Shreeya Patil",
                         "Yashraj"
                     ]
                 }
             }
-
         ],
         "CAD": [
             {
-                "title": "Java",
-                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
-                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
-                "id": "2",
+                "title": "Auto Cad",
+                "desc": "AutoCAD is the original CAD software used by millions around the world. It can be used to create precise 2D and 3D drawings and models, as well as electrical diagrams, construction drawings, and more",
+                "img": "19UrLW_m4e3bNrwAkXS9_sCD94RFF2cK7",
+                "id": "1",
                 "detail": {
                     "rating": "4",
                     "student_enrol": "2300",
+                    "problem": "20",
+                    "month": "4 Months",
+                    "hour": "3 hrs",
+                    "learn": [
+                        "Create and edit drawings online",
+                        "Open and share in the cloud",
+                        "Review and give feedback with Trace",
+                        "Organize your drawing with layers",
+                        "3D navigation"
+                    ],
+                    "curriculum": [
+                        "Basic of Auto CAD",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Solid Works",
+                "desc": "For over 25 years, SOLIDWORKS® has been the trusted industry standard in design and engineering. Intuitive 3D design and product development solutions from SOLIDWORKS help you conceptualize, create, validate, communicate, manage, and transform your innovate ideas into great product designs.",
+                "img": "1v3krusBsXsYCbY5Tdmn54jss0Y-u_Tga",
+                "id": "2",
+                "detail": {
+                    "rating": "4.5",
+                    "student_enrol": "2000",
+                    "problem": "80",
+                    "month": "4 Months",
+                    "hour": "5 hrs",
+                    "learn": [
+                        "Assembly Performance",
+                        "Assembly Productivity Tools",
+                        "Improved User Experience",
+                        "Drawing Performance.",
+                        "3D navigation"
+                    ],
+                    "curriculum": [
+                        "Basic of Auto CAD",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            }
+        ],
+        "Trending": [
+            {
+                "title": "Java",
+                "desc": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+                "img": "1dmdpa0tUqTRoOO881cpjrB68ELb33tFB",
+                "id": "2",
+                "detail": {
+                    "rating": "4.5",
+                    "student_enrol": "2300",
+                    "problem": "30",
+                    "month": "5 Monts",
+                    "hour": "3 hrs",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand",
+                        "Platform Independent",
+                        "Multi-Threaded",
+                        "Microbenchmark suite."
+                    ],
+                    "curriculum": [
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Mern Stack",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1gJFHrGwlF5EkNh9cKsCfM8Z6rYHwBCuG",
+                "id": "4",
+                "detail": {
+                    "rating": "",
+                    "student_enrol": "",
                     "problem": "",
                     "month": "",
                     "hour": "",
@@ -175,6 +263,92 @@
                     ],
                     "curriculum": [
                         "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            }
+        ],
+        "Language": [
+            {
+                "title": "English",
+                "desc": "The English language is an Indo-European language in the West Germanic language group. Modern English is widely considered to be the lingua franca of the world and is the standard language in a wide variety of fields, including computer coding, international business, and higher education.",
+                "img": "17TBpzgxqyEKcX7Ik5_tXTzKdEi3O8c8a",
+                "id": "1",
+                "detail": {
+                    "rating": "4",
+                    "student_enrol": "3000",
+                    "problem": "200",
+                    "month": "2 months",
+                    "hour": "4 hrs",
+                    "learn": [
+                        "Explore the world with confidence.",
+                        "Access world-class education systems and establishments.",
+                        " Improve and widen employment opportunities",
+                        " Increase your cognitive ability (aka, brain power!)",
+                        "Start a Life in an English-Speaking Country"
+                    ],
+                    "curriculum": [
+                        "Basic of English Language",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Japanes",
+                "desc": "Japanese (日本語, Nihongo, [ɲihoŋɡo] ( listen)) is spoken as a native language by about 128 million people, primarily Japanese people and primarily in Japan, the only country where it is the national language. Japanese belongs to the Japonic or Japanese-Ryukyuan language family.",
+                "img": "1s76Z63-T2rxfwX5KMi4LeyUyO-s1_DIC",
+                "id": "1",
+                "detail": {
+                    "rating": "4.5",
+                    "student_enrol": "2000",
+                    "problem": "20",
+                    "month": "3 months",
+                    "hour": "3 hrs",
+                    "learn": [
+                        "It raises your status in the workplace.",
+                        "It raises your status in the workplace.",
+                        "You can further appreciate Japanese culture and entertainment.",
+                        "It's a self-imposed challenge.",
+                        "It opens up more doors and job opportunities."
+                    ],
+                    "curriculum": [
+                        "Basic of Japanese Language",
+                        "Array"
+                    ],
+                    "faculty": [
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
+            },
+            {
+                "title": "Germany",
+                "desc": "German, or more precisely High German, is a West Germanic language mainly spoken in Western Europe and Central Europe. It is the most widely spoken and official or co-official language in Germany, Austria, Switzerland, Liechtenstein, and the Italian province of South Tyrol.",
+                "img": "1G5URd0wm5wX47Q0jZ38bSDR08lYZpjS-",
+                "id": "1",
+                "detail": {
+                    "rating": "4.5",
+                    "student_enrol": "2000",
+                    "problem": "20",
+                    "month": "3 months",
+                    "hour": "3 hrs",
+                    "learn": [
+                        "A gateway to great economic powers",
+                        "Access to Top-Ranked Universities.",
+                        "A language of high-end business.",
+                        "Easy to learn for English speakers.",
+                        "Plenty of culture in the German language."
+                    ],
+                    "curriculum": [
+                        "Basic of German Language",
                         "Array"
                     ],
                     "faculty": [
