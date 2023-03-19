@@ -7,11 +7,11 @@
                 "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
                 "id": "1",
                 "detail": {
-                    "rating": "",
-                    "student_enrol": "",
-                    "problem": "",
-                    "month": "",
-                    "hour": "",
+                    "rating": "4",
+                    "student_enrol": "300+",
+                    "problem": "30+",
+                    "month": "3 Month",
+                    "hour": "4 hrs",
                     "learn": [
                         "Easy To Learn",
                         "High Demand"
@@ -32,11 +32,11 @@
                 "img": "1yd9_-iaqBJSGeD3sv9ZXzhPkC7T7TzqJ",
                 "id": "2",
                 "detail": {
-                    "rating": "",
-                    "student_enrol": "",
-                    "problem": "",
-                    "month": "",
-                    "hour": "",
+                    "rating": "4.5",
+                    "student_enrol": "250+",
+                    "problem": "20",
+                    "month": "2 months",
+                    "hour": "40 hrs",
                     "learn": [
                         "Easy To Learn",
                         "High Demand"
