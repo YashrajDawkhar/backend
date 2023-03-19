@@ -50,7 +50,33 @@
                         "Yashraj"
                     ]
                 }
+            },
+            {
+                "title": "Java",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
+                "id": "2",
+                "detail": {
+                    "rating": "4",
+                    "student_enrol": "2300",
+                    "problem": "",
+                    "month": "",
+                    "hour": "",
+                    "learn": [
+                        "Easy To Learn",
+                        "High Demand"
+                    ],
+                    "curriculum":[
+                        "Basic of Python",
+                        "Array"
+                    ],
+                    "faculty":[
+                        "Shreeya Patil",
+                        "Yashraj"
+                    ]
+                }
             }
+
         ],
         "CAD": [
             {
