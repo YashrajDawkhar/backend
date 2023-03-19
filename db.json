@@ -21,8 +21,14 @@
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": ""
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img":""
+                        }
                     ]
                 }
             },
@@ -145,17 +151,16 @@
                         "Easy To Learn",
                         "High Demand"
                     ],
-                    "curriculum":[
+                    "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
-                    "faculty":[
+                    "faculty": [
                         "Shreeya Patil",
                         "Yashraj"
                     ]
                 }
             }
-
         ],
         "CAD": [
             {
