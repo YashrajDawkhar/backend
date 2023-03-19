@@ -8,21 +8,31 @@
                 "id": "1",
                 "detail": {
                     "rating": "4",
-                    "student_enrol": "300+",
-                    "problem": "30+",
-                    "month": "3 Month",
-                    "hour": "4 hrs",
+                    "student_enrol": "300",
+                    "problem": "30",
+                    "month": "3",
+                    "hour": "4",
                     "learn": [
                         "Easy To Learn",
-                        "High Demand"
+                        "High Demand",
+                        "Large Number of Application",
+                        "Detailed & Genuine Feedback",
+                        "Extensible And Portable",
+                        "Front End And Back End of Project Work Well"
                     ],
                     "curriculum": [
                         "Basic of Python",
                         "Array"
                     ],
                     "faculty": [
-                        "Shreeya Patil",
-                        "Yashraj"
+                        {
+                            "name": "Shreeya Patil",
+                            "img": ""
+                        },
+                        {
+                            "name": "Yashraj",
+                            "img": ""
+                        }
                     ]
                 }
             },
@@ -220,8 +230,8 @@
         "Trending": [
             {
                 "title": "Java",
-                "desc": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
-                "img": "1dmdpa0tUqTRoOO881cpjrB68ELb33tFB",
+                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
                 "id": "2",
                 "detail": {
                     "rating": "4.5",
