@@ -14,7 +14,13 @@
                     "hour": "4",
                     "learn": [
                         "Easy To Learn",
-                        "High Demand"
+                        "High Demand",
+                        "Easy To Learn",
+                        "High Demand",
+                        "Front End And Back End of Project Work Well",
+                        "Large Number of Application",
+                        "Detailed & Genuine Feedback",
+                        "Extensible And Portable"
                     ],
                     "curriculum": [
                         "Basic of Python",
@@ -27,7 +33,7 @@
                         },
                         {
                             "name": "Yashraj",
-                            "img":""
+                            "img": ""
                         }
                     ]
                 }
