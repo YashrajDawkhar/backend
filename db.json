@@ -1,0 +1,32 @@
+{
+    "courses": {
+        "IT": [
+            {
+                "title": "Python",
+                "desc": "",
+                "img": "",
+                "id": ""
+            },
+            {
+                "title": "Python",
+                "desc": "",
+                "img": "",
+                "id": ""
+            }
+        ],
+        "CAD": [
+            {
+                "title": "Python",
+                "desc": "",
+                "img": "",
+                "id": ""
+            },
+            {
+                "title": "Python",
+                "desc": "",
+                "img": "",
+                "id": ""
+            }
+        ]
+    }
+}
