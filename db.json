@@ -53,7 +53,7 @@
             },
             {
                 "title": "Mean Stack",
-                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "desc": "MEAN (MongoDB, Express.js, AngularJS (or Angular), and Node.js)[1] is a free and open-source JavaScript software stack for building dynamic web sites and web applications.[2] A variation known as MERN replaces Angular with React.Because all components of the MEAN stack support programs that are written in JavaScript, MEAN applications can be written in one language for both server-side and client-side execution environments.Though often compared directly to other popular web development stacks such as the LAMP stack, the components of the MEAN stack are higher-level including a web application presentation layer and not including an operating system layer.",
                 "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
                 "id": "3",
                 "detail": {
@@ -78,7 +78,7 @@
             },
             {
                 "title": "Mern Stack",
-                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "desc": "MERN stands for MongoDB, Express, React, Node, after the four key technologies that make up the stack.Express and Node make up the middle (application) tier. Express.js is a server-side web framework, and Node.js is the popular and powerful JavaScript server platform.",
                 "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
                 "id": "4",
                 "detail": {
@@ -103,7 +103,7 @@
             },
             {
                 "title": "C++",
-                "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
+                "desc": "C++ is a cross-platform language that can be used to create high-performance applications.C++ was developed by Bjarne Stroustrup, as an extension to the C language.C++ gives programmers a high level of control over system resources and memory.",
                 "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
                 "id": "5",
                 "detail": {
