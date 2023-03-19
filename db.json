@@ -201,7 +201,7 @@
             {
                 "title": "Solid Works",
                 "desc": "For over 25 years, SOLIDWORKS® has been the trusted industry standard in design and engineering. Intuitive 3D design and product development solutions from SOLIDWORKS help you conceptualize, create, validate, communicate, manage, and transform your innovate ideas into great product designs.",
-                "img": "https://drive.google.com/file/d/1X1ak1wfPRyLyBIq28WciA3VYqz5y-FHC",
+                "img": "1X1ak1wfPRyLyBIq28WciA3VYqz5y-FHC",
                 "id": "2",
                 "detail": {
                     "rating": "4.5",
@@ -231,8 +231,8 @@
             {
                 "title": "Java",
                 "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
-                "img": "1e2Um5350uUysXN7pcPDChxF0rb5rANzh",
-                "id": "2",
+                "img": "1dmdpa0tUqTRoOO881cpjrB68ELb33tFB",
+                "id": "1",
                 "detail": {
                     "rating": "4.5",
                     "student_enrol": "2300",
@@ -260,7 +260,7 @@
                 "title": "Mern Stack",
                 "desc": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
                 "img": "1gJFHrGwlF5EkNh9cKsCfM8Z6rYHwBCuG",
-                "id": "4",
+                "id": "2",
                 "detail": {
                     "rating": "4",
                     "student_enrol": "1000",
@@ -318,7 +318,7 @@
                 "title": "Japanes",
                 "desc": "Japanese (日本語, Nihongo, [ɲihoŋɡo] ( listen)) is spoken as a native language by about 128 million people, primarily Japanese people and primarily in Japan, the only country where it is the national language. Japanese belongs to the Japonic or Japanese-Ryukyuan language family.",
                 "img": "1KGXICSClnFwFBcDyeiyw4jhUfBKTbUxJ",
-                "id": "1",
+                "id": "2",
                 "detail": {
                     "rating": "4.5",
                     "student_enrol": "2000",
@@ -346,7 +346,7 @@
                 "title": "German",
                 "desc": "German, or more precisely High German, is a West Germanic language mainly spoken in Western Europe and Central Europe. It is the most widely spoken and official or co-official language in Germany, Austria, Switzerland, Liechtenstein, and the Italian province of South Tyrol.",
                 "img": "1zVFQ6PJaLVbbpO7WplK5LEkRZeA9T8-U",
-                "id": "1",
+                "id": "3",
                 "detail": {
                     "rating": "4.5",
                     "student_enrol": "2000",
