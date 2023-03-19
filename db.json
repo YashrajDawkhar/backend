@@ -8,10 +8,10 @@
                 "id": "1",
                 "detail": {
                     "rating": "4",
-                    "student_enrol": "300+",
-                    "problem": "30+",
-                    "month": "3 Month",
-                    "hour": "4 hrs",
+                    "student_enrol": "300",
+                    "problem": "30",
+                    "month": "3",
+                    "hour": "4",
                     "learn": [
                         "Easy To Learn",
                         "High Demand"
